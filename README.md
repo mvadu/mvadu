@@ -13,4 +13,4 @@ I am Site Reliability Enginnering professional by trade, open source enthusiast 
   golang
 - 📫 How to reach me: ...
   
-  info@adystech.com
+  [mailme](info@adystech.com)
